@@ -1,0 +1,15 @@
+C:\Users\Adam\source\repos\XamarinFirstApp\XamarinFirstApp\bin\Debug\netstandard2.0\XamarinFirstApp.deps.json
+C:\Users\Adam\source\repos\XamarinFirstApp\XamarinFirstApp\bin\Debug\netstandard2.0\XamarinFirstApp.dll
+C:\Users\Adam\source\repos\XamarinFirstApp\XamarinFirstApp\bin\Debug\netstandard2.0\ref\XamarinFirstApp.dll
+C:\Users\Adam\source\repos\XamarinFirstApp\XamarinFirstApp\bin\Debug\netstandard2.0\XamarinFirstApp.pdb
+C:\Users\Adam\source\repos\XamarinFirstApp\XamarinFirstApp\obj\Debug\netstandard2.0\XamarinFirstApp.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\XamarinFirstApp\XamarinFirstApp\obj\Debug\netstandard2.0\XamarinFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\XamarinFirstApp\XamarinFirstApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Adam\source\repos\XamarinFirstApp\XamarinFirstApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Adam\source\repos\XamarinFirstApp\XamarinFirstApp\obj\Debug\netstandard2.0\XamarinFirstApp.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\XamarinFirstApp\XamarinFirstApp\obj\Debug\netstandard2.0\XamarinFirstApp.AssemblyInfo.cs
+C:\Users\Adam\source\repos\XamarinFirstApp\XamarinFirstApp\obj\Debug\netstandard2.0\XamarinFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\XamarinFirstApp\XamarinFirstApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Adam\source\repos\XamarinFirstApp\XamarinFirstApp\obj\Debug\netstandard2.0\XamarinFirstApp.dll
+C:\Users\Adam\source\repos\XamarinFirstApp\XamarinFirstApp\obj\Debug\netstandard2.0\ref\XamarinFirstApp.dll
+C:\Users\Adam\source\repos\XamarinFirstApp\XamarinFirstApp\obj\Debug\netstandard2.0\XamarinFirstApp.pdb
